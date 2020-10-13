@@ -198,6 +198,7 @@
         "3. 이시국 검사기/flutter_realtime_detection/**/ios/**/default.mode2v3": false,
         "3. 이시국 검사기/flutter_realtime_detection/**/ios/**/default.pbxuser": false,
         "3. 이시국 검사기/flutter_realtime_detection/**/ios/**/default.perspectivev3": false,
-        "3. 이시국 검사기/flutter_realtime_detection/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages": false
+        "3. 이시국 검사기/flutter_realtime_detection/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages": false,
+        ".vscode": true
     }
 }
