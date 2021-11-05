@@ -4,6 +4,6 @@
 
 ## License
 
-Copyright 2020 Ho Kim, All rights reserved, For education only, except below
+Copyright 2020-2021 Ho Kim, All rights reserved, For education only, except below
 
 * The modified subproject `google_images_download` is from https://github.com/hardikvasa/google-images-download, and is distributed under [MIT License](google_images_download/Licence.txt).
